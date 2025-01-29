@@ -1,1 +1,0 @@
-print("Harold Lucero Nieto")
